@@ -1,5 +1,5 @@
 {
-  "name": "err-handler",
+  "name": "error.handler",
   "version": "1.0.0",
   "description": "Error handling for express.js",
   "main": "lib/index.js",
